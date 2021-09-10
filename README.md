@@ -16,7 +16,7 @@ Le <strong>32</strong> colonne considerate sono le seguenti:
 
 Le istanze fornite sono <strong>1989</strong> e la variabile da predire "Label", che verrà creata e spiegata nel dettaglio nelle seguenti sezioni, è una variabile discreta multiclasse (-1, 0, 1). 
 
-### Obiettivo: È possibile prevedere il mercato?
+## Obiettivo: È possibile prevedere il mercato?
 
 Una "passeggiata aleatoria" è un fenomeno statistico in cui una variabile non segue un andamento distinguibile e si muove apparentemente in modo casuale. La teoria del <strong>random walk</strong>, applicata ai mercati finanziari, delineata più chiaramente da Burton Malkiel, postula che il prezzo dei titoli si muove casualmente, e che, quindi, ogni tentativo di prevedere il movimento futuro dei prezzi, attraverso l'analisi fondamentale o tecnica, è inutile.
 
