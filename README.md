@@ -2,8 +2,6 @@
 Progetto A.A 2020-2021 del corso di Programmazione di Applicazioni Data Intensive<br>
 Alessio Arcara
 
-<hr>
-
 ## Dataset
 
 Il dataset scelto è composto da due file *csv* :
