@@ -24,5 +24,5 @@ L'obiettivo è generare modelli in grado di prevedere se l'indice DJIA avrà al 
 
 Il progetto è suddiviso in due parti:<br>
 
-1. Nella prima parte verranno utilizzati <strong>solo</strong> i dati storici sull'andamento dell'indice DJIA per generare una predizione al tempo $t$ sul movimento rialzista (1) o ribassista (-1);
+1. Nella prima parte verranno utilizzati <strong>solo</strong> i dati storici sull'andamento dell'indice DJIA per generare una predizione al tempo <i>t</i> sul movimento rialzista (1) o ribassista (-1);
 2. Nella seconda parte si utilizzerà il testo dei titoli dei post per cercare una correlazione tra l'andamento dell'indice DJIA e notizie generiche attraverso il <strong>Natural Language Process</strong> (NLP) e dunque, migliorare i risultati precedentemente ottenuti;
