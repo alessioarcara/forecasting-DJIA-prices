@@ -1,6 +1,8 @@
 # Progetto_Data_intensive
-Progetto A.A 2020-2021 del corso di Programmazione di Applicazioni Data Intensive
+Progetto A.A 2020-2021 del corso di Programmazione di Applicazioni Data Intensive<br>
 Alessio Arcara
+
+<hr>
 
 ## Dataset
 
