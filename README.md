@@ -1,4 +1,4 @@
-# Stock Market Prediction with Historical and News Data using NLP
+# Forecasting DJIA Prices with Fractional Differencing and NLP
 Progetto A.A 2020-2021 del corso di Programmazione di Applicazioni Data Intensive<br>
 Alessio Arcara
 
