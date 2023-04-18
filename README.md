@@ -1,4 +1,4 @@
-# Forecasting DJIA Prices with Fractional Differencing and NLP
+# Forecasting DJIA Prices
 Progetto A.A 2020-2021 del corso di Programmazione di Applicazioni Data Intensive<br>
 Alessio Arcara
 
